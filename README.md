@@ -2,5 +2,5 @@
 
 # My Portfolio
 
-Click <a href="spekhale.github.io/"> here </a>.
+Click <a href="https://spekhale.github.io/"> here </a>.
 
