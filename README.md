@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 
 # My Portfolio
-<html>
-<body>
-Click <a href="spekhale.github.io/>here</a>.
-</body>
-</html>
+
+Click <a href="spekhale.github.io/"> here </a>.
+
