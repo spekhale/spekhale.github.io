@@ -594,9 +594,29 @@
                           
                             <!-- It looks like you are creating a contact form. These email and subject fields are special -->
                             <!-- See https://pageclip.co/docs#special-fields for more info -->
-                            <input type="name" name="name" placeholder="Your name" />
-                            <input type="email" name="email" placeholder="Your email" />
-                            <input type="text" name="text" placeholder="Text" />
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="name-input">
+                                    <div class="form-group">
+                                        <input type="name" name="name" placeholder="Your name" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="email-input">
+                                    <div class="form-group">
+                                        <input type="email" name="email" placeholder="Your email" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="textarea-input">
+                                    <div class="form-group">
+                                        <input type="text" name="text" placeholder="Subject" />
+                                    </div>
+                                </div>
+                            </div>
 
                             <!-- This button will have a loading spinner. Keep the inner span for best results. -->
                             <button type="submit" class="pageclip-form__submit">
